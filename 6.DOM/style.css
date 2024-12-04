@@ -1,0 +1,10 @@
+.cuadro_rojo{
+    background:red; 
+    width:200px; 
+    height:200px
+}
+.cuadro_azul{
+    background:blue; 
+    width:200px; 
+    height:200px
+}
